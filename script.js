@@ -37,6 +37,7 @@ function actualizarContador() {
         dias--;
     }
 
+    
     // Días
     if (dias < 0) {
 
